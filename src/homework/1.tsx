@@ -1,4 +1,5 @@
-import React, { useEffect, useRef } from 'react';
+// import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef } from "react";
 
 // Опишіть Props
 export function Observer({ children, onContentEndVisible }: Props) {
