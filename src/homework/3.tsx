@@ -1,5 +1,3 @@
-
-
 import React, { useState, ChangeEvent } from "react";
 
 export function FormComponent() {
